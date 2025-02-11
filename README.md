@@ -27,6 +27,10 @@ A collaboration exploring the use of **AI** in real-world applications.
 
 ---
 
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=milliemk.milliemk)
+
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 Thanks for stopping by! Feel free to connect with me. 😊
