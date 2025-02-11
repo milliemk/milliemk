@@ -1,5 +1,4 @@
 # Hi there, I'm Millie! 👋
----
 
 ## About Me
 - 📚 Currently enrolled at [Code Academy Berlin](https://www.codeacademyberlin.com/)
