@@ -7,12 +7,10 @@
 - 🚀 Excited to kickstart my career in **Web Development**
 
 ## Tech Stack
-| Category       | Technologies                          |
-|----------------|---------------------------------------|
-| Languages      | `JavaScript`, `TypeScript`            |
-| Frameworks     | `React`, `Node.js`, `Next.js`         |
-| Databases      | `MongoDB`, `Firebase`                 |
-| Tools          | `Git`, `GitHub`, `VS Code`            |
+- **Languages:** `JavaScript`, `TypeScript`
+- **Frameworks/Libraries:** `React`, `Node.js`, `Next.js`, `Express`
+- **Databases:** `MongoDB`, `Firebase`
+- **Tools:** `Git`, `GitHub`, `VS Code`
 
 ## Featured Projects
 
