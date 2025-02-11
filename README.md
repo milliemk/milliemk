@@ -11,7 +11,7 @@
 - **Frameworks/Libraries:** `React`, `Node.js`, `Next.js`, `Express`
 - **APIs & Communication:** `GraphQL`, `RestAPI`
 - **Databases:** `MongoDB`, `Firebase`
-- **Deployment and Hosting:**: `Netlify`, `Vercel`
+- **Deployment and Hosting:** `Netlify`, `Vercel`
 - **Tools:** `Git`, `GitHub`
 
 ## Featured Projects
