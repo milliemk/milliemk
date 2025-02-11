@@ -27,7 +27,7 @@ A collaboration exploring the use of **AI** in real-world applications.
 
 ---
 
-![Late Night Coding](https://media.giphy.com/media/3oz8xJheMGOykhBDQU/giphy.gif)
+![Code Success](https://media.giphy.com/media/2YkXMUn5XReyHZwcc1/giphy.gif)
 
 Thanks for stopping by! Feel free to connect with me. 😊
 
