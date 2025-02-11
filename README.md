@@ -16,7 +16,6 @@
 ## How to Reach Me
 - **Email:** [hello@milliecodes.com](mailto:hello@milliecodes.com)
 - **LinkedIn:** [linkedin.com/in/milliemk](https://linkedin.com/in/milliemk)
-- **Twitter:** [@millie_codes](https://twitter.com/millie_codes)
 
 ## Featured Projects
 
