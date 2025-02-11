@@ -1,4 +1,4 @@
-![Profile Card](https://cardivo.vercel.app/api?name=Millie&description=Web%20Developer&github=milliemk&theme=react)
+# Hi there, I'm Millie!
 
 ## About Me
 - 📚 Currently enrolled at [Code Academy Berlin](https://www.codeacademyberlin.com/courses/web-development)
