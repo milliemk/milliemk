@@ -1,26 +1,24 @@
 # Hi there, I'm Millie! 👋
 
-## 🌱 About Me
+## About Me
 - 📚 Currently enrolled at [Code Academy Berlin](https://www.codeacademyberlin.com/)
 - 📍 Based in Berlin and actively looking for job opportunities in tech
 - 💻 Passionate about **web development**, **problem-solving**, and **building cool projects**
 - 🚀 Excited to kickstart my career in **Web Development**
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** `JavaScript`, `TypeScript`, `HTML`, `CSS`
 - **Frameworks/Libraries:** `React`, `Node.js`, `Next.js`, `Express`
 - **Databases:** `MongoDB`, `Firebase`
 - **Tools:** `Git`, `GitHub`, `VS Code`
 
-## 📈 GitHub Stats
-![Millie's GitHub stats](https://github-readme-stats.vercel.app/api?username=milliemk&show_icons=true&theme=radical)
 
-## 📫 How to Reach Me
+## How to Reach Me
 - **Email:** [hello@milliecodes.com](mailto:hello@milliecodes.com)
 - **LinkedIn:** [linkedin.com/in/milliemk](https://linkedin.com/in/milliemk)
 - **Twitter:** [@millie_codes](https://twitter.com/millie_codes)
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### 🎉 **[Events](#)**  
 A user-friendly event management platform where users can explore, save, and track upcoming events with details on dates, locations, and activities.  
