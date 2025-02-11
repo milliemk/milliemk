@@ -1,7 +1,7 @@
 # Hi there, I'm Millie! 👋
 
 ## About Me
-- 📚 Currently enrolled at [Code Academy Berlin](https://www.codeacademyberlin.com/)
+- 📚 Currently enrolled at [Code Academy Berlin](https://www.codeacademyberlin.com/courses/web-development)
 - 📍 Based in Berlin and actively looking for job opportunities in tech
 - 💻 Passionate about **web development**, **problem-solving**, and **building cool projects**
 - 🚀 Excited to kickstart my career in **Web Development**
