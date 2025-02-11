@@ -12,7 +12,7 @@
 - **Databases:** `MongoDB`, `Firebase`
 - **Tools:** `Git`, `GitHub`, `VS Code`
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=milliemk&theme=tokyonight)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=milliemk&theme=react)
 
 ## How to Reach Me
 - **Email:** [hello@milliecodes.com](mailto:hello@milliecodes.com)
