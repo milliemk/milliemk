@@ -27,9 +27,7 @@ A collaboration exploring the use of **AI** in real-world applications.
 
 ---
 
-![Snake Game](https://raw.githubusercontent.com/milliemk/milliemk/output/github-contribution-grid-snake.svg)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Bug Fix](https://media.giphy.com/media/l0MYr26AziF7ZtEmM/giphy.gif)
 
 Thanks for stopping by! Feel free to connect with me. 😊
 
