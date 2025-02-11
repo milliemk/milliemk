@@ -27,5 +27,8 @@ A collaboration exploring the use of **AI** in real-world applications.
 
 ---
 
+## 🤖 Random Programming Joke
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 Thanks for stopping by! Feel free to connect with me. 😊
 
