@@ -27,7 +27,7 @@ A collaboration exploring the use of **AI** in real-world applications.
 
 ---
 
-![Code Success](https://media.giphy.com/media/2YkXMUn5XReyHZwcc1/giphy.gif)
+![Code Success]([https://media.giphy.com/media/2YkXMUn5XReyHZwcc1/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1sdmNuOWluODFtZ2NuMnEwMGJkY2c2cnAxeWdscXFpa20zamg2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif))
 
 Thanks for stopping by! Feel free to connect with me. 😊
 
