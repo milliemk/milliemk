@@ -7,10 +7,12 @@
 - 🚀 Excited to kickstart my career in **Web Development**
 
 ## Tech Stack
-- **Languages:** `JavaScript`, `TypeScript`
+- **Languages:** `JavaScript`, `TypeScript`, `HTML`, `CSS`
 - **Frameworks/Libraries:** `React`, `Node.js`, `Next.js`, `Express`
+- **APIs & Communication:** `GraphQL`, `RestAPI`
 - **Databases:** `MongoDB`, `Firebase`
-- **Tools:** `Git`, `GitHub`, `VS Code`
+- **Deployment and Hosting:**: `Netlify`, `Vercel`
+- **Tools:** `Git`, `GitHub`
 
 ## Featured Projects
 
