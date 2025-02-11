@@ -1,4 +1,4 @@
-<span style="color:magenta;">Hi there, I'm Millie!</span>
+# Hi there, I'm Millie!
 
 ## About Me
 - 🎓 Soon-to-be graduate of [Code Academy Berlin](https://www.codeacademyberlin.com/courses/web-development)
