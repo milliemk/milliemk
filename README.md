@@ -13,7 +13,7 @@
 - **Tools:** `Git`, `GitHub`, `VS Code`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milliemk&layout=compact&theme=solarized" width="400" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milliemk&layout=compact&theme=merko" width="400" height="200">
 </p>
 
 ## How to Reach Me
