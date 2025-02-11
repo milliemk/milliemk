@@ -27,6 +27,6 @@ A collaboration exploring the use of **AI** in real-world applications.
 
 ---
 
-![GIF](https://media.giphy.com/media/2YkXMUn5XReyHZwcc1/giphy.gif)
+![GIF](https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc)
 Thanks for stopping by! Feel free to connect with me. 😊
 
