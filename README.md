@@ -20,10 +20,12 @@
 ## Featured Projects
 
 ### 🗓️ [Events](https://github.com/milliemk/project-events)  
-A user-friendly event management platform where users can explore, save, and track upcoming events with details on dates, locations, and activities.  
+A user-friendly event management platform where users can explore, save, and track upcoming events with details on dates, locations, and activities. 
+[Live Demo](https://project-events.netlify.app/)
 
 ### 🌱 [Plantpal](https://github.com/milliemk/project-plantpal) 
-An online marketplace where users can buy, sell, swap, or give away plants, with features to browse listings, chat, save favorites, and share their own plants with the community.  
+An online marketplace where users can buy, sell, swap, or give away plants, with features to browse listings, chat, save favorites, and share their own plants with the community. 
+[Live Demo](https://project-plantpal.vercel.app/)
 
 ### 🤝  **Ongoing Project**  
 A collaboration exploring the use of **AI** in real-world applications. 
