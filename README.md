@@ -16,7 +16,7 @@
 
 ## Featured Projects
 
-### 🗓️ [Events](https://github.com/milliemk/project-events)  
+### 🎟️ [Events](https://github.com/milliemk/project-events)  
 A user-friendly event management platform where users can explore, save, and track upcoming events with details on dates, locations, and activities. 
 [Live Demo](https://project-events.netlify.app/)
 
