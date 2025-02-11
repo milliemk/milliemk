@@ -12,12 +12,6 @@
 - **Databases:** `MongoDB`, `Firebase`
 - **Tools:** `Git`, `GitHub`, `VS Code`
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=milliemk&theme=react)
-
-## How to Reach Me
-- **Email:** [hello@milliecodes.com](mailto:hello@milliecodes.com)
-- **LinkedIn:** [linkedin.com/in/milliemk](https://linkedin.com/in/milliemk)
-
 ## Featured Projects
 
 ### 🗓️ [Events](https://github.com/milliemk/project-events)  
