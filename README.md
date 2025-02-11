@@ -27,9 +27,7 @@ A collaboration exploring the use of **AI** in real-world applications.
 
 ---
 
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=milliemk.milliemk)
-
+![Snake Game](https://raw.githubusercontent.com/milliemk/milliemk/output/github-contribution-grid-snake.svg)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
