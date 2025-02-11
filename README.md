@@ -25,8 +25,8 @@ A user-friendly event management platform where users can explore, save, and tra
 ### 🌱 [Plantpal](https://github.com/milliemk/project-plantpal) 
 An online marketplace where users can buy, sell, swap, or give away plants, with features to browse listings, chat, save favorites, and share their own plants with the community.  
 
-### 🤖 **Ongoing Project**  
-A collaboration exploring the use of **AI** in real-world applications. Stay tuned for updates!  
+### 🤝  **Ongoing Project**  
+A collaboration exploring the use of **AI** in real-world applications. 
 
 ---
 
