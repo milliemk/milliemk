@@ -12,6 +12,7 @@
 - **Databases:** `MongoDB`, `Firebase`
 - **Tools:** `Git`, `GitHub`, `VS Code`
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milliemk&layout=compact&theme=bear)
 
 ## How to Reach Me
 - **Email:** [hello@milliecodes.com](mailto:hello@milliecodes.com)
