@@ -2,15 +2,17 @@
 
 ## About Me
 - 📚 Currently enrolled at [Code Academy Berlin](https://www.codeacademyberlin.com/courses/web-development)
+-  💻 Passionate about **web development**, **problem-solving**, and **building cool projects**
 - 📍 Based in Berlin and actively looking for job opportunities in tech
-- 💻 Passionate about **web development**, **problem-solving**, and **building cool projects**
 - 🚀 Excited to kickstart my career in **Web Development**
 
 ## Tech Stack
-- **Languages:** `JavaScript`, `TypeScript`
-- **Frameworks/Libraries:** `React`, `Node.js`, `Next.js`, `Express`
-- **Databases:** `MongoDB`, `Firebase`
-- **Tools:** `Git`, `GitHub`, `VS Code`
+| Category       | Technologies                          |
+|----------------|---------------------------------------|
+| Languages      | `JavaScript`, `TypeScript`            |
+| Frameworks     | `React`, `Node.js`, `Next.js`         |
+| Databases      | `MongoDB`, `Firebase`                 |
+| Tools          | `Git`, `GitHub`, `VS Code`            |
 
 ## Featured Projects
 
