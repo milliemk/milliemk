@@ -12,14 +12,11 @@
 - **Databases:** MongoDB, Firebase
 - **Tools:** Git, Github
 
-## 📈 GitHub Stats
-![Millie's GitHub stats](https://github-readme-stats.vercel.app/api?username=milliemk&show_icons=true&theme=radical)
-
 ## 📫 How to reach me
 - **Email:** hello@milliecodes.com
 - **LinkedIn:** [linkedin.com/in/milliemk](https://linkedin.com/in/mkarphammar)
 
-## 🌟 Projects
+## 💡 Projects
 - **Events:** A user-friendly event management platform where users can explore, save, and track upcoming events with details on dates, locations, and activities.
 - **Plantpal:** An online marketplace that allows users to buy, sell, swap, or give away plants, with features to browse listings, chat, save favorites, and share their own plants with the community.
 - **Ongoing Project:** A collab exploring the use of AI. 
