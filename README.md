@@ -28,10 +28,5 @@ A collaboration exploring the use of **AI** in real-world applications.
 ---
 
 
-<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
-  <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200" height="200">
-</div>
-
-
 Thanks for stopping by! Feel free to connect with me. 😊
 
