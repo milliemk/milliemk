@@ -14,7 +14,7 @@
 
 
 ## How to Reach Me
-- **Email:** <a href="mailto:hello@milliecodes.com" style="color:#ff007f">hello@milliecodes.com</a>
+- **Email:** [hello@milliecodes.com](mailto:hello@milliecodes.com)
 - **LinkedIn:** [linkedin.com/in/milliemk](https://linkedin.com/in/milliemk)
 
 ## Featured Projects
