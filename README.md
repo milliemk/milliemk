@@ -1,10 +1,10 @@
 # Hi there, I'm Millie!
 
 ## About Me
+- 🚀 Excited to kickstart my career in **Web Development**
 - 🎓 Soon-to-be graduate of [Code Academy Berlin](https://www.codeacademyberlin.com/courses/web-development)
 -  💻 Passionate about **web development**, **problem-solving**, and **building cool projects**
-- 📍 Based in Berlin and actively looking for job opportunities in tech
-- 🚀 Excited to kickstart my career in **Web Development**
+- 📍 Based in Berlin and actively looking for job opportunities in tec
 
 ## Tech Stack
 - **Languages:** `JavaScript`, `TypeScript`, `HTML`, `CSS`
