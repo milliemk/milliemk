@@ -10,7 +10,7 @@
 - **Languages:** `JavaScript`, `TypeScript`, `HTML`, `CSS`
 - **Frameworks/Libraries:** `React`, `Node.js`, `Next.js`, `Express`
 - **APIs & Communication:** `GraphQL`, `RestAPI`
-- **Databases:** `MongoDB`, `Firebase`
+- **Databases:** `MongoDB`, `Firebase`, `PostgreSQL`
 - **Deployment and Hosting:** `Netlify`, `Vercel`
 - **Tools:** `Git`, `GitHub`
 
