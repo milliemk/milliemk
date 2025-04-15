@@ -24,8 +24,9 @@ An online marketplace where users can buy, sell, swap, or give away plants, with
 A user-friendly event management platform where users can explore, save, and track upcoming events with details on dates, locations, and activities. 
 [Live Demo](https://project-events.netlify.app/)
 
-### 🤝  **Ongoing Project**  
-A collaboration exploring the use of **AI** in real-world applications. 
+### 🛸 [CosmoQuiz](https://github.com/milliemk/project-events)  
+An interactive quiz about space, created as a collaborative project to make learning about the universe a little more fun.
+[Live Demo](https://cosmoquiz-collab.vercel.app/)
 
 ---
 
