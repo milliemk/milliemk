@@ -14,7 +14,7 @@
 - **Deployment and Hosting:** `Netlify`, `Vercel`
 - **Tools:** `Git`, `GitHub`
 
-## Featured Projects
+## Projects
 
 ### 🌱 [Plantpal](https://github.com/milliemk/project-plantpal) 
 An online marketplace where users can buy, sell, swap, or give away plants, with features to browse listings, chat, save favorites, and share their own plants with the community. 
